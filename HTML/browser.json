@@ -1,0 +1,18 @@
+{
+	"dependencies": [
+		"css/reset.css",
+		"css/bootstrap.css",
+		"css/fontello/css/fontello.css",
+		"css/jquery.bxslider.css",
+		"css/style.css",
+		"css/media-query.css",
+		"js/jquery.min.js",
+		"js/bootstrap.min.js",
+		"js/jquery.easing.min.js",
+		"js/jquery.bxslider.js",
+		"js/jquery.nicescroll.min.js",
+		"js/waypoints.min.js",
+		"js/themehippo.js",
+		"js/script.js"
+	]
+}
